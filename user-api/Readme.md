@@ -1,7 +1,7 @@
 Build and Run Instructions
 
    1. Clone the repository:
-      git clone https://github.com/PakkiAlexey/Incode-Group/tree/master/user-api
+      git clone https://github.com/PakkiAlexey/Incode-Group.git
 
    2. Navigate to the project root directory:
       cd user-api
