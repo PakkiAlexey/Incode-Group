@@ -16,7 +16,6 @@ public class UserDtoConverter {
     }
 
     public static User toUser(UserDto userDto) {
-
         return new User(userDto.getName(), userDto.getEmail());
     }
 }
